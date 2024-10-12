@@ -2,8 +2,8 @@
 
 Projeto desenvolvido como requisito parcial para a conclusão do módulo de Fundamentos do Desenvolvimento Web do curso de Desenvolvimento Web da Trybe. O projeto consiste em uma aplicação de lista de tarefas usando `HTML`, `CSS` e `JavaScript`.
 
-Link para projeto publicado: https://anaventura1811.github.io/minhas-tarefas/
-Link para versão mais atual e reformulada deste projeto no GitHub: https://github.com/anaventura1811/minhas-tarefas/blob/main/README.md
+- Link para projeto publicado: https://anaventura1811.github.io/minhas-tarefas/
+- Link para versão mais atual e reformulada deste projeto no GitHub: https://github.com/anaventura1811/minhas-tarefas/blob/main/README.md
 
 
 <img width="857" alt="Captura de Tela 2024-10-12 às 19 19 55" src="https://github.com/user-attachments/assets/c3a2cffb-f2f1-42c0-8a25-6ea984946f6f">
