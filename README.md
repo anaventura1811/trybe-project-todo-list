@@ -5,9 +5,12 @@ Manual da Pessoa Estudante da Trybe.
 
 # Boas vindas ao repositório do projeto Lista de Tarefas!
 
-Você já usa o GitHub diariamente para desenvolver os exercícios, certo? Agora, para desenvolver os projetos, você deverá seguir as instruções a seguir. Fique atento a cada passo, e se tiver qualquer dúvida, nos envie por _Slack_! #vqv 🚀
+Projeto desenvolvido como requisito parcial para a conclusão do módulo de Fundamentos do Desenvolvimento Web do curso de Desenvolvimento Web da Trybe. 
+Link para projeto publicado: https://anaventura1811.github.io/minhas-tarefas/
+Link para versão mais atual e reformulada deste projeto no GitHub: https://github.com/anaventura1811/minhas-tarefas/blob/main/README.md
 
-Aqui você vai encontrar os detalhes de como estruturar o desenvolvimento do seu projeto à partir desse repositório, utilizando uma branch específica e um _Pull Request_ para colocar seus códigos.
+<img width="857" alt="Captura de Tela 2024-10-12 às 19 19 55" src="https://github.com/user-attachments/assets/c3a2cffb-f2f1-42c0-8a25-6ea984946f6f">
+
 
 ---
 
